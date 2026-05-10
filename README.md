@@ -1,1 +1,0 @@
-# Pretti-Solitaire-2
